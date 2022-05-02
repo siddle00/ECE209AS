@@ -13,7 +13,7 @@ Using Deep Learning models for Audio spoofing detection. The problem statement i
 All code changes will be pushed to the following repo - https://github.com/siddle00/ECE209AS 
 
 ## Github Pages 
-
+https://siddle00.github.io/ECE209AS/ 
 
 
 ## Literature Study 
@@ -37,4 +37,21 @@ All code changes will be pushed to the following repo - https://github.com/siddl
 |https://www.asvspoof.org/interspeech2019_slides.pdf | |
 |https://arxiv.org/pdf/2109.00537.pdf| |
 |https://www.asvspoof.org/asvspoof2021/asvspoof2021_evaluation_plan.pdf| | 
+
+
+
+## Work Done 
+1. Literature study was performed to explore different statistical and Deep Learning architectures that were applied to the problem. 
+2. Based on the literature study, a combination of CNN + Sequential architecture such as GRU, LSTMs were found to be effective. 
+
+## Work in Progress 
+3. Implemetning a baseline model, a CNN based architecture with residual connections is being constructed. 
+4. Code changes involving the architecture is pushed - https://github.com/siddle00/ECE209AS/blob/main/Architecture_def.ipynb 
+
+## Goals for Week 6 and Week 7 
+5. Finishing implementing the baseline model. 
+6. Explore different feature extraction techniques such as MQCC, CQCC, Spectograms and create a permutation of architectures. 
+
+
+
 
